@@ -1,0 +1,32 @@
+/* App.css */
+.banner {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  border: none;
+}
+
+.button-upload {
+  background-color: #007bff;
+}
+
+.button-submit {
+  background-color: #28a745;
+  margin-right: 10px;
+}
+
+.button-close {
+  background-color: #6c757d;
+}
+
+/* Add more styles as needed */
